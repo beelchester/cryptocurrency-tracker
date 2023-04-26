@@ -6,11 +6,13 @@ The app utilizes the Coingecko API to fetch accurate and timely data for various
 React, Chart.js, TailwindCSS
 
 ## Live Preview
-Check out the live preview of Cryptocurrency Tracker here: https://attendance-criteria-manager.netlify.app/
+Check out the live preview of Cryptocurrency Tracker here: https://cryptocurrency-tracker-sahil.netlify.app/
 
 
 
-https://user-images.githubusercontent.com/73148455/234527575-9106c9d4-b920-4ba1-abc5-2bbcec72d51c.mp4
+https://user-images.githubusercontent.com/73148455/234532757-14ec6002-e06b-40f8-a4e4-0c4fdf6a48ec.mp4
+
+
 
 
 ### Contributing
